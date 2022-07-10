@@ -1,0 +1,19 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "Pokedex para el curso de Crehana: JavaScript Asincrono",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bricog/pokedex.git"
+  },
+  "author": "Brigitte Rico",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bricog/pokedex/issues"
+  },
+  "homepage": "https://github.com/Bricog/pokedex#readme"
+}
